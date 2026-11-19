@@ -1,5 +1,6 @@
 # Yatai-1 (屋台)
-
+YES IK WE ARE SUPPOSED TO PUSH TEH CODE NOT THE BUILD 
+SHUT UPPASFADFADF
 This was my attempt at cloning Sylenth1. It's not very good, but it's a humble attempt.
 
 Yatai-1 is a subtractive synth with a cream-and-purple, screen-printed guitar-pedal look. It comes as a VST3 instrument for your DAW and as a standalone Windows app.
